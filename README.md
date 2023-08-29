@@ -88,17 +88,20 @@ cv2.imshow('212222230020_baskaran',mergedHSV)
 cv2.waitKey(0)
 cv2.destroyAllWindow()
 ```
-```
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
-
+![WhatsApp Image 2023-08-29 at 10 31 05 PM (2)](https://github.com/BaskaranV15/COLOR-CONVERSION/assets/118703522/0353b9b0-1cb8-44d1-a3b2-1ecd1393f2ed)
 ### ii) HSV to RGB and BGR
+![WhatsApp Image 2023-08-29 at 10 31 05 PM (5)](https://github.com/BaskaranV15/COLOR-CONVERSION/assets/118703522/906832dc-ff13-4f1e-b363-7419923a40e8)
 
 ### iii) RGB and BGR to YCrCb
+![WhatsApp Image 2023-08-29 at 10 31 05 PM (6)](https://github.com/BaskaranV15/COLOR-CONVERSION/assets/118703522/c8894589-94f8-4285-b48a-39a7062cc8a3)
 
 ### iv) Split and merge RGB Image
+![WhatsApp Image 2023-08-29 at 10 31 05 PM (7)](https://github.com/BaskaranV15/COLOR-CONVERSION/assets/118703522/b9666916-97d0-4c7a-bc52-88d779678729)
 
 ### v) Split and merge HSV Image
+![5](https://github.com/BaskaranV15/COLOR-CONVERSION/assets/118703522/77d2616a-6c38-42a0-a58c-ecfd1e8b8608)
 
 ## Result:
 Thus the color conversion was performed between RGB, HSV and YCbCr color models.
